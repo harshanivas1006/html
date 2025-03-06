@@ -1,0 +1,27 @@
+h1{   
+    color:rgb(170, 150, 48);
+}
+#p1{
+    text-indent: 20px;
+    line-height: 10px;
+}
+table{
+    color: rgb(226, 43, 46);
+    border-collapse:collapse;
+    padding: 10px;
+}
+li{
+    color: rgb(102, 0, 255);
+}
+th{
+    font-size: xx-large;
+}
+table{
+    background-color: rgb(42, 165, 151);
+}
+td{
+    color: black;
+}
+th{
+    color: black;
+}

@@ -1,0 +1,6 @@
+a{
+    background-color: rgb(234, 142, 29);
+}
+a[target]{
+    background-color: brown;
+}
